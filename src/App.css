@@ -1,38 +1,196 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.Body-0 {
+  background-color: #3E8E9B;
+  color: white;
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
+}
+
+.Body-1 {
+  background-color: #A9557E;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.Body-2 {
+  background-color: #DBCC56;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.Header {
+  background-color: #3D3939;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Header h1 {
+  margin: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Nav {
+  background-color: #3D3939;
+  text-align: center;
 }
+
+.navButton {
+  color: white;
+  background-color: #3D3939;
+  font-size: calc(14px + 1vmin);
+  border: none;
+  padding: 8px 12px 4px;
+}
+
+.navButtonActive-0 {
+  color: white;
+  background-color: #3E8E9B;
+  color: #3D3939;
+  font-size: calc(14px + 1vmin);
+  border: none;
+  padding: 8px 12px 4px;
+}
+
+.navButtonActive-1 {
+  color: white;
+  background-color: #A9557E;
+  color: #3D3939;
+  font-size: calc(14px + 1vmin);
+  border: none;
+  padding: 8px 12px 4px;
+}
+
+.navButtonActive-2 {
+  color: white;
+  background-color: #DBCC56;
+  color: #3D3939;
+  font-size: calc(14px + 1vmin);
+  border: none;
+  padding: 8px 12px 4px;
+}
+
+.navButton:hover {
+  text-decoration: underline;
+}
+
+.Content {
+  margin: 0;
+  padding: 20px 30px;
+  font-size: calc(10px + .5vmin);
+  color: inherit;
+}
+
+.content-block {
+  background-color: #3D3939;
+  padding: 10px 20px 20px;
+  max-width: 1000px;
+  margin: auto auto 20px auto;
+}
+
+.content-block h2 {
+  margin: 4px 0;
+}
+
+.content-block a {
+  color: white;
+  padding: 0 10px 0 0;
+  font-size: calc(12px + .5vmin)
+}
+
+.link-button {
+  width: 20%;
+  height: 70px;
+  background-color: #3D3939;
+  border-color: white;
+  margin: 4px 12px;
+  color: white;
+  font-size: calc(14px + .5vmin);
+}
+
+.link-button:hover {
+  text-decoration: underline;
+  border-width: 4px;
+}
+
+.project-container {
+  padding: 10px 0 0;
+  text-align: center;
+}
+
+.project-button {
+  width: 30%;
+  height: 125px;
+  background-color: #3D3939;
+  border-color: white;
+  margin: 8px 12px;
+  color: white;
+  font-size: calc(14px + 1vmin);
+}
+
+.project-button:hover {
+  text-decoration: underline;
+  border-width: 4px;
+}
+
+.contact-block {
+  font-size: calc(14px + .5vmin);
+  margin: auto;
+  padding:6px;
+  overflow:hidden;
+}
+
+.contact-block input {
+  border: none;
+  font-size: calc(12px + .5vmin);
+  width: 98%;
+  padding: 8px;
+}
+
+.contact-block input:focus {
+  outline: none;
+}
+
+.contact-block textarea {
+  border: none;
+  font-size: calc(12px + .5vmin);
+  width: 98%;
+  max-width: 98%;
+  padding: 8px;
+}
+
+.contact-block textarea:focus {
+  outline: none;
+}
+
+.contact-block button {
+  color: white;
+  background-color:#3D3939;
+  border: 2px solid white;
+  padding: 6px 12px;
+  font-size: calc(14px + .5vmin);
+}
+
+.Footer {
+  background-color: #3D3939;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  font: inherit;
+  text-align: center;
+  padding: 10px;
+  font-size: calc(8px + .5vmin);
+  margin-top: 20px;
+}
+
+.Footer a {
+  color: white;
+  padding: 0 10px 0 0;
+}
+

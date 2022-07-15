@@ -1,0 +1,35 @@
+{
+    "text": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu malesuada justo, quis bibendum ante. In hac habitasse platea dictumst. Sed eget vehicula erat, non tempor lorem. Sed cursus ipsum vitae tellus vulputate, vel porta sem sollicitudin. Nam volutpat pharetra bibendum. Proin eu gravida turpis. Proin a nunc vitae quam placerat semper vel in est. Nunc cursus id augue commodo mollis. Suspendisse potenti. Maecenas rhoncus accumsan diam, vel facilisis justo volutpat at. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent lorem mauris, pulvinar non enim id, tincidunt volutpat ligula. In sollicitudin tellus massa, in congue metus imperdiet id.",
+        "Nulla bibendum mauris vitae mauris imperdiet tempor. In hac habitasse platea dictumst. Suspendisse eget tellus id nisl condimentum sollicitudin. Curabitur facilisis quam diam, mattis tempus sapien lobortis eget. Proin eu odio in nisl tempus luctus vel nec erat. Nunc condimentum posuere ante vitae semper. Vestibulum consectetur elementum consectetur. Fusce vel arcu arcu. Sed vehicula, eros nec suscipit efficitur, nibh risus pellentesque ex, a ultricies augue nulla sed quam.",
+        "Etiam vel lacinia justo, et ornare massa. Quisque consequat pharetra nibh vehicula luctus. Cras porttitor cursus leo, quis sodales ipsum volutpat vitae. Vivamus venenatis non urna nec lobortis. Vestibulum tellus mauris, vestibulum ut lorem id, posuere pellentesque sapien. Praesent egestas at purus nec hendrerit. Mauris commodo egestas nisl at lacinia. Nulla ac ligula velit. Vestibulum aliquet ut augue eu convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi eu turpis turpis. Nam et libero et turpis fringilla dignissim. Duis diam urna, vulputate eu auctor a, condimentum ut nisi."
+    ],
+    "skills": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Samurai Shodown",
+        "Node.js",
+        "HTML5",
+        "CSS",
+        "Web Design",
+        "Python",
+        "C++",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "Adobe Photoshop",
+        "Linux",
+        "Bash",
+        "PowerShell",
+        "Active Directory Domain Services",
+        "Group Policy Administration",
+        "Being an all-around cool guy"
+    ],
+    "links": {
+        "GitHub": "#",
+        "Twitter": "#",
+        "LinkedIn": "#",
+        "Portfolio": "https://dleinhellios.com"
+    }
+}
